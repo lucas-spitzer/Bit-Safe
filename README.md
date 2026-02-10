@@ -1,4 +1,5 @@
 # Bit-Safe
+## **My First Ever GitHub Repository**
 ### Password Manager Desktop Application
 Application built to store and manage passwords.
 
